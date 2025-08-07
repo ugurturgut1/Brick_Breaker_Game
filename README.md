@@ -1,8 +1,6 @@
 # 🧱 Brick Breaker (Python)
 
-A retro-style **Brick Breaker** game built using **Python and Tkinter**, developed as part of my **Introduction to Programming** coursework during my first year studying Computer Science at the University of Manchester.
-
-This was my second coursework assignment, where we were encouraged to **clone an OG game** and get creative with our own additions.
+A retro-style **Brick Breaker** game built using **Python and Tkinter**.
 
 ## 🎮 Features
 
