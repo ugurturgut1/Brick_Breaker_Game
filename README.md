@@ -21,8 +21,7 @@ This was my second coursework assignment, where we were encouraged to **clone an
 
 ## 📁 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ugurturgut1/Brick?_Breaker_Game.git
-   cd Brick_Breaker_Game
-   python game_solution.py
+ ```bash
+git clone https://github.com/ugurturgut1/Brick?_Breaker_Game.git
+cd Brick_Breaker_Game
+python game_solution.py
